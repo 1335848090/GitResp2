@@ -4,6 +4,7 @@ public class Student {
     public static void main(String[] args) {
         int a;
         int b;
+		private String he;
         System.out.println("我爱Java");
 
     }
