@@ -5,9 +5,7 @@ public class Student {
         int a;
         int b;
         double he;
-		private String he;
         System.out.println("我爱Java");
-
     }
 
 
